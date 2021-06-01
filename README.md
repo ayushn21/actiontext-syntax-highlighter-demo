@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a demo app for [actiontext-syntax-highlighter](https://github.com/ayushn21/actiontext-syntax-highlighter).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You should just be able to clone and run the repository locally! Or check out the demo [on Heroku](https://actiontext-syntax-highlighter.herokuapp.com/).
