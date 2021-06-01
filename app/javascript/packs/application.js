@@ -12,8 +12,9 @@ Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
 
-require("trix")
-require("@rails/actiontext")
+window.Trix = require("trix")
+import "trix/dist/trix.css"
+import "@rails/actiontext"
 
 import { ActionTextSyntaxHighlighter } from "@ayushn21/actiontext-syntax-highlighter"
 ActionTextSyntaxHighlighter.start()
