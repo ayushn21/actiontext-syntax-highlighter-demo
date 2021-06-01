@@ -19,7 +19,7 @@ gem 'jbuilder', '~> 2.7'
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-gem 'actiontext-syntax-highlighter', require: 'action_text_syntax_highlighter/engine', github: "ayushn21/actiontext-syntax-highlighter"
+gem 'actiontext-syntax-highlighter', require: 'action_text_syntax_highlighter/engine'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
